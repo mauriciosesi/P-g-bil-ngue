@@ -1,0 +1,38 @@
+h1, h2, h3, p, a {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#texto1 {
+    margin-top: -550px;
+    width: 50%;
+    margin-left: 350px;
+    font-size: 20px;
+    color: white;
+}
+
+#texto2 {
+   margin-top: 10px;
+   margin-left: 400px;
+   width: 50%;
+   font-size: 20px;
+   color: white;
+
+}
+
+#sobreocurso{
+   margin-top: -380px;
+   margin-left: 420px;
+   width: 30%;
+   font-size: 20px;
+   color: rgb(255, 255, 255);
+
+}
+
+img#paginabilingueprincipal {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
